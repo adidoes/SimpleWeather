@@ -1,0 +1,35 @@
+{
+    "appKeys": {
+        "KEY_CONDITIONS": 2,
+        "KEY_CONDITIONS_ID": 3,
+        "KEY_LOCALE": 1,
+        "KEY_TEMPERATURE": 0
+    },
+    "capabilities": [
+        "location"
+    ],
+    "companyName": "okukun",
+    "longName": "SimpleWeather",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "fonts/meteocons.ttf",
+                "name": "FONT_METEO_50",
+                "type": "font"
+            },
+            {
+                "file": "images/background.png",
+                "name": "IMAGE_BACKGROUND",
+                "type": "png"
+            }
+        ]
+    },
+    "shortName": "SimpleWeather",
+    "uuid": "2933cc6d-b225-4913-bcd2-75069b943a7f",
+    "versionCode": 1,
+    "versionLabel": "0.1",
+    "watchapp": {
+        "watchface": true
+    }
+}
